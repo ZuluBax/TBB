@@ -1,0 +1,2 @@
+# TBB
+Twitch Ban Bot
